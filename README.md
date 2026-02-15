@@ -51,4 +51,11 @@ This project is a temperature monitoring and controller device. The ambient temp
 ## License
 This project is open-source and available under the MIT License.  
 
+## 👥 Authors
+
+Developed collaboratively by:
+
+- Soheil Ahmadi
+- Omid Menbari
+
 # aoutomation
