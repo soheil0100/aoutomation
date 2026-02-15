@@ -1,5 +1,5 @@
 # Arduino Temperature Control System
-
+ 
 ## Overview
 This project is a temperature monitoring and controller device. The ambient temperature is measured through a temperature sensor and if it exceeds the maximum limit, the cooler relay is activated by Arduino and if the temperature decreases below the minimum limit, the heater relay is activated and the LEDs of each are also lit and the buzzer sounds. The maximum and minimum limits are set by two variable resistors.
 
